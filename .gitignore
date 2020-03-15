@@ -1,0 +1,7 @@
+.idea
+MigrationCreator/bin
+MigrationCreator/obj
+XamarinEFCore/XamarinEFCore/bin
+XamarinEFCore/XamarinEFCore.Android/obj
+XamarinEFCore/XamarinEFCore.iOS/bin
+XamarinEFCore/XamarinEFCore.iOS/obj
